@@ -1,16 +1,31 @@
 ### Hi there Juan David 👋 💻 🤓 🖥
 
-<!--
-**JDQN/JDQN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Here are some ideas to get you started:
+<p><em> SENA CGMLTI -> <a href="https://hogent.be">Centro de Gestión de Mercados, Logística y Tecnología de la Información</a>, Regional Bogota. 💻 </br>
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 👨🏻•💻 Sobre Mi </h2>
+
+
+- 🤔 &nbsp; Explorar nuevas tecnologías y desarrollar soluciones de software.
+
+- 🎓 &nbsp; Estudiante de ADSI Analisis y Desarrollo de Sistemas de Infromación.
+
+- 🌱 &nbsp; Aprendiendo sobre nuevas tecnologias y diseños amigables.
+
+- ✍️ &nbsp; Seguir el desarrollo web como pasatiempos / actividades secundarias.
+
+<h3>🛠 Tech Stack</h3>
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Laravel
+- 🖥 &nbsp; Illustrator| After Effects | InDesign | Premier Pro
+- 🛢 &nbsp; MySQL | 
+- 💻 &nbsp; Php | Java | C# | MySQL
+
+<h2>💻 Some stats 💻</h2>
+
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+---
+https://www.linkedin.com/learning/me?trk=nav_neptune_learning&u=84303994
