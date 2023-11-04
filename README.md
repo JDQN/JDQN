@@ -1,83 +1,47 @@
-### 👋 Hi there Juan David 
+# 👋 Hola, soy Juan David
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+![Computadora](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
 
+[![PORTAFOLIO WEB](https://img.shields.io/badge/Portafolio%20Web-%23323330.svg?style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://portafolio-web-one.vercel.app/) [![REPOSITORIO](https://img.shields.io/badge/Repositorio-%23323330.svg?style=for-the-badge&logo=repositorio&logoColor=black&color=8000FF)](https://github.com/JDQN)
 
-[![PORTAFOLIO WEB](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://portafolio-web-one.vercel.app/) [![REPOSITÓRIO](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/JDQN)
+## 👨‍🎓 Educación
 
+- Profesional MasterWeb en UTNBA, Buenos Aires, Argentina.
+- Tecnólogo en ADSI (Análisis y Desarrollo de Sistemas de Información) en SENA, Regional Bogotá.
+- Bootcamp Full Stack Developer en EducaMás-Prográmate, Regional Bogotá, Colombia, cohorte IV.
 
-<h2> 👽 Educación </h2>
+## 💻 Sobre Mí
 
-<p>
- <a href="https://sceu.frba.utn.edu.ar/course/professional-webmaster/">Profesional MasterWeb UTNBA</a>, Buenos Aires Argentina. </br>
- </em>
-</p>
+- 🧠 Explorando nuevas tecnologías y desarrollando soluciones de software.
+- 🌱 Aprendiendo sobre nuevas tecnologías y diseños amigables.
+- ✍️ Siguiendo el desarrollo web como pasatiempo y actividad secundaria.
 
-<p>
- <a href="http://oferta.senasofiaplus.edu.co/sofia-oferta/">Tecnólogo en ADSI Análisis y Desarrollo de Sistemas de Información SENA </a>, Regional Bogotá. </br>
-</em>
-</p>
+## 📞 Contacto
 
-<p>
- <a href="https://educamas.com.co/">Bootcamp full stack developer EducaMás-Prográmate</a>, Regional Bogotá Colombia cohorte IV. </br>
- </em>
-</p>
-
-<h2> 💻 Sobre Mi </h2>
-
- 
-- 🧠 &nbsp; Explorar nuevas tecnologías y desarrollar soluciones de software.
-
-- 🌱 &nbsp; Aprendiendo sobre nuevas tecnologias y diseños amigables.
-
-- ✍️ &nbsp; Seguir el desarrollo web como pasatiempos / actividades secundarias.
-
----
-
-<h3> 📞 Contacto </h3>
-
-- 🌐 &nbsp; <a href="https://portafolio-web-one.vercel.app/"> Portafolio Web </a>
-- 💻 &nbsp; <a href="https://www.linkedin.com/in/viamonte2319/"> My LinkeIn </a>
-- 🛢 &nbsp; <a href="https://github.com/JDQN"> GitHub </a>
-
----
-
-<h3>🛠 Tech Stack: </h3>
-
-<p>
- <img  src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white"/> 
- <img  src="https://img.shields.io/badge/CSS-00D3E8?&style=for-the-badge&logo=css3&logoColor=white"/> 
- <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
-</p> 
+- 🌐 [Portafolio Web](https://portafolio-web-one.vercel.app/)
+- 💻 [Mi LinkedIn](https://www.linkedin.com/in/viamonte2319/)
+- 🛢 [GitHub](https://github.com/JDQN)
 
 
-<p>
- <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
- <img  src="https://img.shields.io/badge/JavaScript-D4AC0D?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
- <img  src="https://img.shields.io/badge/Express.js-138D75?style=for-the-badge"/> 
-</p>
+## 🛠 Tech Stack
 
-<p>
- <img  src="https://img.shields.io/badge/MongoDB-2ECC71?style=for-the-badge&logo=mongodb&logoColor=white"/> 
- <img src="https://img.shields.io/badge/MySQL-016FA2?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+### Frontend | Backend
+| Tecnología   | Frontend                                                                                                  | Tecnología   | Backend |
+|--------------|--------------------------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------|
+| HTML         | ![HTML Badge](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white) | React        | ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| CSS          | ![CSS Badge](https://img.shields.io/badge/CSS-00D3E8?style=for-the-badge&logo=css3&logoColor=white)   | Node.js      | ![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) |
+| Bootstrap    | ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | JavaScript   | ![JavaScript Badge](https://img.shields.io/badge/JavaScript-D4AC0D?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
 
-<p>
- <img  src="https://img.shields.io/badge/git-884EA0.svg?style=for-the-badge&logo=git&logoColor=white"/> 
- <img  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
- <img  src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/> 
- <img  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> 
- <img  src="https://img.shields.io/badge/wordpress-1A5276?style=for-the-badge&logo=wordpress&logoColor=blue"/>  
-</p>
+### Bases de Datos | Herramientas
+| Tecnología   | Badge                                                                                                  | Tecnología   | Badge                                                                                                  |
+|--------------|--------------------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------|
+| MongoDB      | ![MongoDB Badge](https://img.shields.io/badge/MongoDB-2ECC71?style=for-the-badge&logo=mongodb&logoColor=white) | Git          | ![Git Badge](https://img.shields.io/badge/Git-884EA0?style=for-the-badge&logo=git&logoColor=white)   |
+| MySQL        | ![MySQL Badge](https://img.shields.io/badge/MySQL-016FA2?style=for-the-badge&logo=mysql&logoColor=white) | Postman      | ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+                                                                                                        
 
-<p>
- <img  src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
- <img  src="https://img.shields.io/badge/Heroku-4A235A?style=for-the-badge&logo=heroku&logoColor=white"/> 
-</p>
- 
----
-  
-<h3>💻 Some Stats 💻</h3>
+### Plataformas de Despliegue
+| Tecnología   | Plataformas                                                                                            |
+|--------------|--------------------------------------------------------------------------------------------------------|
+| Netlify      | ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
+| Heroku       | ![Heroku Badge](https://img.shields.io/badge/Heroku-4A235A?style=for-the-badge&logo=heroku&logoColor=white) |
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
