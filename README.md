@@ -1,26 +1,30 @@
 # 👋 Hola, soy Juan David
 
-![Computadora](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
-
 [![PORTAFOLIO WEB](https://img.shields.io/badge/Portafolio%20Web-%23323330.svg?style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://portafolio-web-one.vercel.app/) [![REPOSITORIO](https://img.shields.io/badge/Repositorio-%23323330.svg?style=for-the-badge&logo=repositorio&logoColor=black&color=8000FF)](https://github.com/JDQN)
 
-## 👨‍🎓 Educación
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300" align="right" alt="Computador">
 
-- Profesional MasterWeb en UTNBA, Buenos Aires, Argentina.
-- Tecnólogo en ADSI (Análisis y Desarrollo de Sistemas de Información) en SENA, Regional Bogotá.
-- Bootcamp Full Stack Developer en EducaMás-Prográmate, Regional Bogotá, Colombia, cohorte IV.
 
-## 💻 Sobre Mí
+## 👽 Educación
 
-- 🧠 Explorando nuevas tecnologías y desarrollando soluciones de software.
-- 🌱 Aprendiendo sobre nuevas tecnologías y diseños amigables.
-- ✍️ Siguiendo el desarrollo web como pasatiempo y actividad secundaria.
+- <sub>[Profesional MasterWeb UTNBA](https://sceu.frba.utn.edu.ar/course/professional-webmaster/), Buenos Aires, Argentina.</sub>
+
+- <sub>[Tecnólogo en ADSI Análisis y Desarrollo de Sistemas de Información SENA](http://oferta.senasofiaplus.edu.co/sofia-oferta/), Regional Bogotá.</sub>
+
+- <sub>[Bootcamp Full Stack Developer EducaMás-Prográmate](https://educamas.com.co/), Regional Bogotá, Colombia, cohorte IV.</sub>
+
+
+## 💼 Experiencia
+
+Soy un profesional en Análisis y Desarrollo de Sistemas de la Información (ADSI) con más de 12 meses de experiencia en el campo de la tecnología de la información. Mi enfoque principal se centra en la automatización de pruebas, donde destaco por mis habilidades en el desarrollo y calidad del software. He trabajado con tecnologías avanzadas, incluyendo Selenium, Serenity y Rest Assured, y he aplicado patrones de diseño como Page Objects Model (POM) y Screenplay para optimizar procesos de pruebas. Además, poseo conocimientos en el diseño frontend, desarrollo mobile y automatización mobile.
+
 
 ## 📞 Contacto
 
-- 🌐 [Portafolio Web](https://portafolio-web-one.vercel.app/)
-- 💻 [Mi LinkedIn](https://www.linkedin.com/in/viamonte2319/)
-- 🛢 [GitHub](https://github.com/JDQN)
+- 🌐 [**Portafolio Web**](https://portafolio-web-one.vercel.app/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/viamonte2319/)
+- 📁 [**GitHub**](https://github.com/JDQN)
+
 
 
 ## 🛠 Tech Stack
@@ -44,4 +48,10 @@
 |--------------|--------------------------------------------------------------------------------------------------------|
 | Netlify      | ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
 | Heroku       | ![Heroku Badge](https://img.shields.io/badge/Heroku-4A235A?style=for-the-badge&logo=heroku&logoColor=white) |
+
+
+
+<h3>💻 Some Stats 💻</h3>
+
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
