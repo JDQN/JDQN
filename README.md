@@ -16,7 +16,7 @@
 
 ## 💼 Experiencia
 
-Soy un profesional en Análisis y Desarrollo de Sistemas de la Información (ADSI) con más de 12 meses de experiencia en el campo de la tecnología de la información. Mi enfoque principal se centra en la automatización de pruebas, donde destaco por mis habilidades en el desarrollo y calidad del software. He trabajado con tecnologías avanzadas, incluyendo Selenium, Serenity y Rest Assured, y he aplicado patrones de diseño como Page Objects Model (POM) y Screenplay para optimizar procesos de pruebas. Además, poseo conocimientos en el diseño frontend, desarrollo mobile y automatización mobile.
+Soy un profesional en Análisis y Desarrollo de Sistemas de la Información (ADSI) con más de 2 años de experiencia en el campo de la tecnología de la información. Mi enfoque principal se centra en la automatización de pruebas, donde destaco por mis habilidades en el desarrollo y calidad del software. He trabajado con tecnologías avanzadas, incluyendo Selenium, Serenity y Rest Assured, y he aplicado patrones de diseño como Page Objects Model (POM) y Screenplay para optimizar procesos de pruebas. Además, poseo conocimientos en el diseño frontend, desarrollo mobile y automatización mobile.
 
 
 ## 📞 Contacto
