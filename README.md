@@ -70,11 +70,15 @@ También cuento con experiencia en **desarrollo frontend**, lo que me permite en
 
 ## 📂 Proyectos Relevantes
 
-| Proyecto             | Rol                      | Tecnologías                                    | Impacto |
-|----------------------|--------------------------|------------------------------------------------|---------|
-| **Pibank App**       | Analista QA              | Selenium, Appium, Salesforce, Mambu            | Aceleración de pruebas y reducción de errores |
-| **Global Bank API**  | Analista Automatización  | Serenity, Cucumber, Rest-Assured               | Mejor calidad en microservicios |
-| **Metro Medellín**   | QA Automation + Mentoría | Serenity Screenplay, Selenium                  | Estandarización de reportes y documentación |
+<div align="center">
+
+|       Proyecto       |         Rol              |               Tecnologías                      |                   Impacto                     |
+|----------------------|--------------------------|------------------------------------------------|-----------------------------------------------|
+| **App Pibank**       | Analista QA              | Selenium, Appium, Salesforce, Mambu            | Aceleración de pruebas y reducción de errores |
+| **Global Bank**      | Analista Automatización  | Serenity, Cucumber, Rest-Assured               | Mejor calidad en microservicios               |
+| **Metro Medellín**   | QA Automation            | Serenity Screenplay, Selenium                  | Estandarización de reportes y documentación   |
+
+</div>
 
 ---
 
