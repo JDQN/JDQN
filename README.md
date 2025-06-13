@@ -10,14 +10,15 @@
   <strong>QA Automation Engineer | Desarrollador Frontend</strong><br>
   Apasionado por la calidad del software, automatización de pruebas, el diseño frontend y la mejora continua.
 </p>
-
 <p align="center">
   <a href="https://portafolio-web-one.vercel.app/">
     <img src="https://img.shields.io/badge/Portafolio-%23FF0080?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio Web" />
   </a>
+  >
   <a href="https://github.com/JDQN">
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  >
   <a href="https://www.linkedin.com/in/viamonte2319/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
