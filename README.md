@@ -1,57 +1,110 @@
-# 👋 Hola, soy Juan David
+<!-- Encabezado visual con portafolio, GitHub y LinkedIn -->
 
-[![PORTAFOLIO WEB](https://img.shields.io/badge/Portafolio%20Web-%23323330.svg?style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://portafolio-web-one.vercel.app/) [![REPOSITORIO](https://img.shields.io/badge/Repositorio-%23323330.svg?style=for-the-badge&logo=repositorio&logoColor=black&color=8000FF)](https://github.com/JDQN)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="250" alt="illustration" />
+</p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300" align="right" alt="Computador">
+<h1 align="center">¡Hola, soy Juan David! 👨‍💻</h1>
 
+<p align="center">
+  <strong>QA Automation Engineer | Desarrollador Frontend</strong><br>
+  Apasionado por la calidad del software, automatización de pruebas, el diseño frontend y la mejora continua.
+</p>
 
-## 👽 Educación
+<p align="center">
+  <a href="https://portafolio-web-one.vercel.app/">
+    <img src="https://img.shields.io/badge/Portafolio-%23FF0080?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio Web" />
+  </a>
+  <a href="https://github.com/JDQN">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/viamonte2319/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-- <sub>[Profesional MasterWeb UTNBA](https://sceu.frba.utn.edu.ar/course/professional-webmaster/), Buenos Aires, Argentina.</sub>
+---
 
-- <sub>[Tecnólogo en ADSI Análisis y Desarrollo de Sistemas de Información SENA](http://oferta.senasofiaplus.edu.co/sofia-oferta/), Regional Bogotá.</sub>
+## 🚀 Sobre mí
 
-- <sub>[Bootcamp Full Stack Developer EducaMás-Prográmate](https://educamas.com.co/), Regional Bogotá, Colombia, cohorte IV.</sub>
+Soy un profesional con más de **3 años de experiencia en QA Automation**, trabajando en proyectos de banca, transporte y tecnología. Me destaco en la creación de pruebas automatizadas para aplicaciones **web, móviles y APIs**, utilizando frameworks modernos y aplicando buenas prácticas como **Screenplay** y **Page Object Model (POM)**.
 
+También cuento con experiencia en **desarrollo frontend**, lo que me permite entender a fondo los productos que pruebo y colaborar más eficientemente con equipos de desarrollo.
 
-## 💼 Experiencia
-
-Soy un profesional en Análisis y Desarrollo de Sistemas de la Información (ADSI) con más de 2 años de experiencia en el campo de la tecnología de la información. Mi enfoque principal se centra en la automatización de pruebas, donde destaco por mis habilidades en el desarrollo y calidad del software. He trabajado con tecnologías avanzadas, incluyendo Selenium, Serenity y Rest Assured, y he aplicado patrones de diseño como Page Objects Model (POM) y Screenplay para optimizar procesos de pruebas. Además, poseo conocimientos en el diseño frontend, desarrollo mobile y automatización mobile.
-
-
-## 📞 Contacto
-
-- 🌐 [**Portafolio Web**](https://portafolio-web-one.vercel.app/)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/viamonte2319/)
-- 📁 [**GitHub**](https://github.com/JDQN)
-
-
+---
 
 ## 🛠 Tech Stack
 
-### Frontend | Backend
-| Tecnología   | Frontend                                                                                                  | Tecnología   | Backend |
-|--------------|--------------------------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------|
-| HTML         | ![HTML Badge](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white) | React        | ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| CSS          | ![CSS Badge](https://img.shields.io/badge/CSS-00D3E8?style=for-the-badge&logo=css3&logoColor=white)   | Node.js      | ![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) |
-| Bootstrap    | ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | JavaScript   | ![JavaScript Badge](https://img.shields.io/badge/JavaScript-D4AC0D?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+### 🔧 Automatización de Pruebas
 
-### Bases de Datos | Herramientas
-| Tecnología   | Badge                                                                                                  | Tecnología   | Badge                                                                                                  |
-|--------------|--------------------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------|
-| MongoDB      | ![MongoDB Badge](https://img.shields.io/badge/MongoDB-2ECC71?style=for-the-badge&logo=mongodb&logoColor=white) | Git          | ![Git Badge](https://img.shields.io/badge/Git-884EA0?style=for-the-badge&logo=git&logoColor=white)   |
-| MySQL        | ![MySQL Badge](https://img.shields.io/badge/MySQL-016FA2?style=for-the-badge&logo=mysql&logoColor=white) | Postman      | ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-                                                                                                        
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-00C7B7?style=for-the-badge&logo=appium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-16A085?style=for-the-badge)
+![Katalon](https://img.shields.io/badge/Katalon-32C766?style=for-the-badge)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge)
+![K6](https://img.shields.io/badge/K6-7E3794?style=for-the-badge)
 
-### Plataformas de Despliegue
-| Tecnología   | Plataformas                                                                                            |
-|--------------|--------------------------------------------------------------------------------------------------------|
-| Netlify      | ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
-| Heroku       | ![Heroku Badge](https://img.shields.io/badge/Heroku-4A235A?style=for-the-badge&logo=heroku&logoColor=white) |
+### 💻 Desarrollo Frontend
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+### 🧰 Herramientas y DevOps
 
-<h3>💻 Some Stats 💻</h3>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Mambu](https://img.shields.io/badge/Mambu-00C4B3?style=for-the-badge)
+![Lens](https://img.shields.io/badge/Lens-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=blue)
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+---
+
+## 📂 Proyectos Relevantes
+
+| Proyecto             | Rol                      | Tecnologías                                    | Impacto |
+|----------------------|--------------------------|------------------------------------------------|---------|
+| **Pibank App**       | Analista QA              | Selenium, Appium, Salesforce, Mambu            | Aceleración de pruebas y reducción de errores |
+| **Global Bank API**  | Analista Automatización  | Serenity, Cucumber, Rest-Assured               | Mejor calidad en microservicios |
+| **Metro Medellín**   | QA Automation + Mentoría | Serenity Screenplay, Selenium                  | Estandarización de reportes y documentación |
+
+---
+
+## 🎓 Educación
+
+- 🎓 Tecnólogo en ADSI – SENA  
+- 💻 Bootcamp Full Stack – EducaMás / Prográmate  
+- 🌐 Master Web – UTNBA Argentina  
+- 📘 Finalizando Ingeniería en Sistemas
+
+---
+
+## 🌍 Idiomas
+
+- 🇪🇸 Español — Nativo  
+- 🇺🇸 Inglés — A2 (En proceso)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JDQN&show_icons=true&theme=dark&hide_border=true" width="450" />
+</p>
+
+---
+
+> “Me esfuerzo por combinar el pensamiento crítico del testing con la creatividad del desarrollo para entregar productos robustos, eficientes y alineados con las necesidades del usuario.”
+>
+> 
+>
+> 
 
