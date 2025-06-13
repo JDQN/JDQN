@@ -100,6 +100,8 @@ También cuento con experiencia en **desarrollo frontend**, lo que me permite en
 
 ## 📈 GitHub Stats
 
+<h3 align="center">David Nuñez</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JDQN&show_icons=true&theme=dark&hide_border=true" width="450" />
 </p>
