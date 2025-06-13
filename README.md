@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="250" alt="illustration" />
 </p>
 
-<h1 align="center">¡Hola, soy David Nuñez! 👨‍💻</h1>
+<h1 align="center">¡Hola, soy David Nuñez! 🧪</h1>
 
 <p align="center">
   <strong>QA Automation Engineer | Desarrollador Frontend</strong><br>
